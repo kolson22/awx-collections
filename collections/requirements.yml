@@ -1,4 +1,4 @@
 ---
 collections:
-  - name: community.general  
-  - name: netbox.netbox
+- name: community.general  
+- name: netbox.netbox
